@@ -1,5 +1,13 @@
 # Medx-AI
 
+<img width="5909" height="7484" alt="Copy of FYP Diagrams - Page 1" src="https://github.com/user-attachments/assets/62573b8b-948a-4629-b710-4dfa62b4d4d6" />
+
+![FYP Diagrams - Page 1](https://github.com/user-attachments/assets/8ccb9c99-7cf7-4565-ba1e-adde587426ad)
+
+
+![FYP Diagrams - Page 1 (1)](https://github.com/user-attachments/assets/1bdcfb1d-c0eb-4b58-9eaf-433e3344eec8)
+
+
 
 <img width="1837" height="940" alt="admin" src="https://github.com/user-attachments/assets/7be41b95-4ca8-4ce4-90c5-00afee21dcc7" />
 
