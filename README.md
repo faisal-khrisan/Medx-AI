@@ -1,6 +1,17 @@
 # Medx-AI
 <img width="1837" height="940" alt="admin" src="https://github.com/user-attachments/assets/7be41b95-4ca8-4ce4-90c5-00afee21dcc7" />
 <img width="5909" height="7484" alt="Copy of FYP Diagrams - Page 1" src="https://github.com/user-attachments/assets/62573b8b-948a-4629-b710-4dfa62b4d4d6" />
+<img width="1843" height="939" alt="admin1" src="https://github.com/user-attachments/assets/609e28ae-b5a9-47f0-9450-bc1ab0d3f436" />
+
+<img width="1879" height="652" alt="Screenshot 2026-01-12 232817" src="https://github.com/user-attachments/assets/b5cb5534-d15b-4dd2-903e-5eac9883f21c" />
+
+<img width="1876" height="938" alt="Screenshot 2026-01-12 232857" src="https://github.com/user-attachments/assets/a13a2c1f-7e0b-41f8-b394-5a02aedd8a93" />
+
+<img width="1879" height="943" alt="Screenshot 2026-01-12 232930" src="https://github.com/user-attachments/assets/c02888ef-272c-430b-9d89-913ed70b0b19" />
+
+<img width="1919" height="944" alt="Screenshot 2026-01-12 233110" src="https://github.com/user-attachments/assets/bd26fe9a-11ef-4bdf-9918-4c3b5f9ae75e" />
+
+<img width="1917" height="949" alt="Screenshot 2026-01-12 233129" src="https://github.com/user-attachments/assets/61509255-1136-4014-b88f-de4b0b4c6edd" />
 
 ![FYP Diagrams - Page 1](https://github.com/user-attachments/assets/8ccb9c99-7cf7-4565-ba1e-adde587426ad)
 
@@ -9,23 +20,6 @@
 ![Copy of Application Layer (1)](https://github.com/user-attachments/assets/385f6e98-1d9c-492c-ad8c-eb81faa3763d)
 
 ![Copy of Application Layer](https://github.com/user-attachments/assets/63507a8c-5564-470d-8708-1613045e1021)
-
-
-
-
-<img width="1843" height="939" alt="admin1" src="https://github.com/user-attachments/assets/609e28ae-b5a9-47f0-9450-bc1ab0d3f436" />
-
-
-<img width="1879" height="652" alt="Screenshot 2026-01-12 232817" src="https://github.com/user-attachments/assets/b5cb5534-d15b-4dd2-903e-5eac9883f21c" />
-
-<img width="1876" height="938" alt="Screenshot 2026-01-12 232857" src="https://github.com/user-attachments/assets/a13a2c1f-7e0b-41f8-b394-5a02aedd8a93" />
-
-
-<img width="1879" height="943" alt="Screenshot 2026-01-12 232930" src="https://github.com/user-attachments/assets/c02888ef-272c-430b-9d89-913ed70b0b19" />
-
-<img width="1919" height="944" alt="Screenshot 2026-01-12 233110" src="https://github.com/user-attachments/assets/bd26fe9a-11ef-4bdf-9918-4c3b5f9ae75e" />
-
-<img width="1917" height="949" alt="Screenshot 2026-01-12 233129" src="https://github.com/user-attachments/assets/61509255-1136-4014-b88f-de4b0b4c6edd" />
 
 <img width="1879" height="940" alt="Screenshot 2026-01-12 233207" src="https://github.com/user-attachments/assets/b185aad3-3b4b-4a33-bbc4-1a01f86ab783" />
 
