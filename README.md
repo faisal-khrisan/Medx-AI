@@ -6,7 +6,9 @@
 
 
 ![FYP Diagrams - Page 1 (1)](https://github.com/user-attachments/assets/1bdcfb1d-c0eb-4b58-9eaf-433e3344eec8)
+![Copy of Application Layer (1)](https://github.com/user-attachments/assets/385f6e98-1d9c-492c-ad8c-eb81faa3763d)
 
+![Copy of Application Layer](https://github.com/user-attachments/assets/63507a8c-5564-470d-8708-1613045e1021)
 
 
 <img width="1837" height="940" alt="admin" src="https://github.com/user-attachments/assets/7be41b95-4ca8-4ce4-90c5-00afee21dcc7" />
