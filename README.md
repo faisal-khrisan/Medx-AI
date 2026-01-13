@@ -1,6 +1,5 @@
 # Medx-AI
 <img width="1837" height="940" alt="admin" src="https://github.com/user-attachments/assets/7be41b95-4ca8-4ce4-90c5-00afee21dcc7" />
-<img width="5909" height="7484" alt="Copy of FYP Diagrams - Page 1" src="https://github.com/user-attachments/assets/62573b8b-948a-4629-b710-4dfa62b4d4d6" />
 <img width="1843" height="939" alt="admin1" src="https://github.com/user-attachments/assets/609e28ae-b5a9-47f0-9450-bc1ab0d3f436" />
 
 <img width="1879" height="652" alt="Screenshot 2026-01-12 232817" src="https://github.com/user-attachments/assets/b5cb5534-d15b-4dd2-903e-5eac9883f21c" />
@@ -13,8 +12,8 @@
 
 <img width="1917" height="949" alt="Screenshot 2026-01-12 233129" src="https://github.com/user-attachments/assets/61509255-1136-4014-b88f-de4b0b4c6edd" />
 
+<img width="5909" height="7484" alt="Copy of FYP Diagrams - Page 1" src="https://github.com/user-attachments/assets/62573b8b-948a-4629-b710-4dfa62b4d4d6" />
 ![FYP Diagrams - Page 1](https://github.com/user-attachments/assets/8ccb9c99-7cf7-4565-ba1e-adde587426ad)
-
 
 ![FYP Diagrams - Page 1 (1)](https://github.com/user-attachments/assets/1bdcfb1d-c0eb-4b58-9eaf-433e3344eec8)
 ![Copy of Application Layer (1)](https://github.com/user-attachments/assets/385f6e98-1d9c-492c-ad8c-eb81faa3763d)
