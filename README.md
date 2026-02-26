@@ -1,4 +1,6 @@
 # Medx-AI
+<img width="929" height="835" alt="image" src="https://github.com/user-attachments/assets/0aff457c-6070-467b-b1f5-cb7349e50f77" />
+
 <img width="1837" height="940" alt="admin" src="https://github.com/user-attachments/assets/7be41b95-4ca8-4ce4-90c5-00afee21dcc7" />
 <img width="1843" height="939" alt="admin1" src="https://github.com/user-attachments/assets/609e28ae-b5a9-47f0-9450-bc1ab0d3f436" />
 
